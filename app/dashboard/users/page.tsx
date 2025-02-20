@@ -1,6 +1,8 @@
 import React from "react";
 import Link from "next/link";
 
+//adding dynamic routes which started with enclosing id in [] brackets and using Link
+
 const page = () => {
   return (
     <div>
