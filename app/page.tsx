@@ -1,3 +1,9 @@
+import Hello from "@/app/components/hello";
+
 export default function Home() {
-  return <h1 className="text-3xl">Alex we started Next</h1>;
+  return (
+    <>
+      <Hello />
+    </>
+  );
 }
